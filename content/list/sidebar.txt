@@ -1,0 +1,6 @@
+home
+news
+product
+cart
+login
+logout
